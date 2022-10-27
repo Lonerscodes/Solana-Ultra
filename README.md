@@ -1,5 +1,5 @@
 # Solana-Ultra
-**This repo was created by Lonerscodes** 
+**This repo was created by Lonerscodes and has no Backdoor** 
 
 **Want to talk more about this?https://t.me/Lonerscode**
 
